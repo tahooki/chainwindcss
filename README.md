@@ -2,6 +2,8 @@
 
 ChainwindCSS is a visual tool that helps you generate Tailwind CSS code through a node-based interface. Connect nodes, draw frames, and instantly get the corresponding Tailwind CSS code.
 
+This example has been created using the tldraw SDK, offering features similar to computer.tldraw.com.
+
 ## 🌟 Features
 
 - Node-based visual interface
