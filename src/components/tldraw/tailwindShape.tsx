@@ -100,7 +100,6 @@ export class TailwindShapeUtil extends BaseBoxShapeUtil<TailwindShape> {
             if (connectedShape.type === "textInput")
               return connectedShape.props.text;
             if (connectedShape.type === "image") {
-              console.log("connectedShape.props.image", connectedShape);
               const base64 = await handleExportBase64(
                 editor,
                 [connectedShape.id],
