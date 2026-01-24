@@ -76,12 +76,6 @@ chainwindcss/
 └── tsconfig.json
 ```
 
-## 📧 Contact
-
-For questions or feedback, reach out to:
-
-- Email: walle.42062@gmail.com
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to submit issues and pull requests.
