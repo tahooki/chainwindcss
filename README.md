@@ -76,10 +76,6 @@ chainwindcss/
 └── tsconfig.json
 ```
 
-## 🌐 Live Demo
-
-Visit [chainwindcss.com](https://chainwindcss.com) to try it out!
-
 ## 📧 Contact
 
 For questions or feedback, reach out to:
